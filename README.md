@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Smith Azizat 
 - 👀 I’m a data analyst who enjoys documenting her project and learning journey. 
-- 🌱 I’m currently learning Tableau and python 
+- 🌱 I’m currently learning SQL, Python and Tableau  
 - 💞️ I’m looking to collaborate on data analysis, Volunter and soon 
 - 📫 How to reach me [Instagram](https://www.instagram.com/bisjoye_smith/)
 - 😄 Pronouns: She/her 
